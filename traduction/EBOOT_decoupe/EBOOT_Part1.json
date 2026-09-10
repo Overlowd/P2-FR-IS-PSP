@@ -605,7 +605,7 @@
     "data_size": 72,
     "slot_size": 72,
     "texte_orig": "Change[SP]all[SP]fusion[SP]spell[SP]conditions<0004><FF03>",
-    "texte_fr": ""
+    "texte_fr": "Change les condit. des sorts fus.<0004><FF03>"
   },
   {
     "id": 76,
@@ -645,7 +645,7 @@
     "data_size": 44,
     "slot_size": 44,
     "texte_orig": "Select[SP]a[SP]combination<0004><FF03>",
-    "texte_fr": ""
+    "texte_fr": "Choisi une combi.<0004><FF03>"
   },
   {
     "id": 81,
@@ -661,7 +661,7 @@
     "data_size": 46,
     "slot_size": 46,
     "texte_orig": "Select[SP]a[SP]skill[SP]to[SP]use<0004><FF03>",
-    "texte_fr": ""
+    "texte_fr": "Choisi un sort à uti.<0004><FF03>"
   },
   {
     "id": 83,
@@ -813,7 +813,7 @@
     "data_size": 28,
     "slot_size": 28,
     "texte_orig": "Auto[SP]Settings<FF03>",
-    "texte_fr": ""
+    "texte_fr": "Réglages Auto<FF03>"
   },
   {
     "id": 102,
@@ -909,7 +909,7 @@
     "data_size": 10,
     "slot_size": 10,
     "texte_orig": "Press",
-    "texte_fr": ""
+    "texte_fr": "Appui"
   },
   {
     "id": 114,
@@ -917,7 +917,7 @@
     "data_size": 14,
     "slot_size": 14,
     "texte_orig": "Confirm",
-    "texte_fr": ""
+    "texte_fr": "Validez"
   },
   {
     "id": 115,
